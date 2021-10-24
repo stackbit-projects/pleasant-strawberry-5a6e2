@@ -90,5 +90,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://pleasant-strawberry-5a6e2.netlify.app"
 }
